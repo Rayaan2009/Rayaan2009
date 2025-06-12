@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Masfi+Rahman!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Rayaan!;" />
 </h1>
 
   
@@ -15,7 +15,7 @@
 
 
 
-👨‍🎓 Student | High School | CS50 | Doha Academy | I'm keen on doing coding stuff, y'know! Kinda like a coding mate 😅.
+👨‍🎓 Student | High School | CS50 Learner | Doha Academy | I'm keen on doing coding stuff, y'know! Kinda like a coding mate 😅.
 
 Skills: Python/C/HTML && CSS/Javascript/Bootstrap/Flask/SQL
 
