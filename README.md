@@ -46,10 +46,8 @@ Skills: Python/C/HTML && CSS/Javascript/Bootstrap/Flask/SQL
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Problem Solving
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color='white'>](https://www.linkedin.com/in/Rayaan2009/)
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mashrur-rahman-masfi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Rayaan2009/)
 
 
 
