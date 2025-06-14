@@ -10,7 +10,7 @@
 
 ### Hi Mate, It's Rayaan Bin Saifullah! ☺️
 
-🚀 **16-year-old High School Student | CS50 Learner | Doha Academy | I'm keen on doing coding stuff, y'know! Kinda like a coding mate** 😅🚀
+🚀 **16-year-old High School Student | Young Innovator | CS50 Learner | Python & Web Developer | Problem Solver | I'm keen on doing coding stuff, y'know! Kinda like a coding mate** 😅🚀
 
 ### 💻 **Tech Stack:**
 
