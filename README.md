@@ -8,7 +8,7 @@
   
 </div>
 
-### Hi there, I'm Rayaan Bin Saifullah! ☺️
+### Hi Mate, It's Rayaan Bin Saifullah! ☺️
 
 🚀 **16-year-old High School Student | CS50 Learner | Doha Academy | I'm keen on doing coding stuff, y'know! Kinda like a coding mate** 😅🚀
 
@@ -22,7 +22,7 @@
 - Design: Canva
 ```
 
-### My Current Projects
+### 🧠 **My Current Projects**
 
 - 🔭 I’m currently working on Artificial Intelligence
 - 🌱 I’m currently learning CS50's Introduction to Artificial Intelligence with Python
@@ -40,12 +40,12 @@
 
 
 
-### ✍️ Random Dev Quote
+### ✍️ **Random Dev Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
-### 🔝 Top Contributed Repo
+### 🔝 **Top Contributed Repo**
 ![](https://github-contributor-stats.vercel.app/api?username=Rayaan2009&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
