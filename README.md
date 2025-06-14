@@ -7,8 +7,10 @@
 
   
 </div>
+
 ### Hi there, I'm Rayaan Bin Saifullah! ☺️
-🚀 **16-year-old High School Student | CS50 Learner | Doha Academy | I'm keen on doing coding stuff, y'know! Kinda like a coding mate 😅
+
+🚀 **16-year-old High School Student | CS50 Learner | Doha Academy | I'm keen on doing coding stuff, y'know! Kinda like a coding mate** 😅🚀
 
 ### 💻 **Tech Stack:**
 
@@ -29,9 +31,9 @@
 
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayaan2009&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayaan2009&layout=compact&theme=radical)
 
-![Rayaan2009's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayaan2009&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayaan2009&show_icons=true&theme=auto)  
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rayaan2009&theme=radical)
@@ -48,12 +50,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rayaan2009&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MasfiRahman/MasfiRahman/output/github-snake-dark.svg" />
