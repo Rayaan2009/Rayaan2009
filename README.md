@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+☺️;+I'm+Rayaan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Bebas+Neue&size=40&pause=1000&center=true&vCenter=true&color=FF0000&width=600&lines=⚡+RAYAAN+BIN+SAIFULLAH+⚡;The+Next+Tech+Avenger!;" />
 </h1>
 
   
@@ -33,7 +33,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayaan2009&layout=compact&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayaan2009&show_icons=true&theme=auto)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayaan2009&show_icons=true&theme=radical)  
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rayaan2009&theme=radical)
