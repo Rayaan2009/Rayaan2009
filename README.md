@@ -3,8 +3,6 @@
 <!-- Single Gradient Header (no dark/light switch, just consistent gradient) -->
 <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2ff,100:5eead4&height=160&section=header&text=Rayaan%20Bin%20Saifullah&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Student%20%E2%80%A2%20Innovator%20%E2%80%A2%20Problem%20Solver&descAlign=50&descAlignY=70" />
 
-<!-- Fun GIF -->
-<img height="130" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coder GIF" />
 
 ### Hi Mate, It's Rayaan Bin Saifullah! ☺️
 
@@ -32,14 +30,14 @@
 ---
 
 ### 🧠 My current projects
-- 🔭 I’m currently working on Artificial Intelligence  
-- 🌱 I’m currently learning CS50's Introduction to AI with Python  
-- 👯 I’m looking to collaborate on GitHub  
-- 💬 Ask me about Problem Solving  
+- I’m currently working on Artificial Intelligence  
+- I’m currently learning CS50's Introduction to AI with Python  
+- I’m looking to collaborate on GitHub  
+- Ask me about Problem Solving  
 
 ---
 
-### 📊 GitHub analytics
+### GitHub analytics
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Rayaan2009&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
   <img src="https://github-readme-stats.vercel.app/api?username=Rayaan2009&show_icons=true&theme=default&hide_border=true" />
@@ -57,7 +55,7 @@
 
 ---
 
-### ✍️ Random dev quote
+### Random dev quote
 <picture>
   <source srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" media="(prefers-color-scheme: dark)" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
@@ -65,7 +63,7 @@
 
 ---
 
-### 🔝 Top contributed repos
+### Top contributed repos
 <picture>
   <source srcset="https://github-contributor-stats.vercel.app/api?username=Rayaan2009&limit=5&theme=algolia&combine_all_yearly_contributions=true" media="(prefers-color-scheme: dark)" />
   <img src="https://github-contributor-stats.vercel.app/api?username=Rayaan2009&limit=5&theme=default&combine_all_yearly_contributions=true" />
@@ -74,7 +72,7 @@
 ---
 
 <div align="center">
-  <a href="https://rayaan2009.github.io" target="_blank">
+  <a href="https://rayaan2009.github.io/itsactuallyrayaan/" target="_blank">
     <img src="https://raw.githubusercontent.com/Rayaan2009/Rayaan2009/main/assets/logo.png" 
          alt="Rayaan2009 Logo" height="48">
   </a>
