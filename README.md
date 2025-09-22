@@ -23,7 +23,7 @@
 - Languages: Python, C, HTML, CSS, JavaScript, Bootstrap, SQL, Flask
 - Frontend: HTML, CSS, Bootstrap
 - Backend: Python, Flask, JavaScript
-- OS: Linux, Windows
+- OS: MacOS, Linux, Windows
 - Design: Canva
 ```
 
