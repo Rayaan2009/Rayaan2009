@@ -13,6 +13,7 @@
 <a href="https://www.linkedin.com/in/itsactuallyrayaan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.youtube.com/@itsactuallyrayaan" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="mailto:rayaanbinsaifullah2009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-7aa2ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://discord.com/users/1456018726074847285" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Rayaan2009&label=Profile%20Views&color=7aa2ff&style=flat" alt="Profile Views" />
