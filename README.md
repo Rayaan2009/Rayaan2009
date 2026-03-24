@@ -14,38 +14,60 @@
 <a href="https://www.youtube.com/@itsactuallyrayaan" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="mailto:rayaanbinsaifullah2009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-7aa2ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Rayaan2009&label=Profile%20Views&color=7aa2ff&style=flat" alt="Profile Views" />
+
 </div>
 
 ---
 
 ### 💻 Tech stack
-```yaml
-- Languages: Python, C, HTML, CSS, JavaScript, Bootstrap, SQL, Flask
-- Frontend: HTML, CSS, Bootstrap
-- Backend: Python, Flask, JavaScript
-- OS: MacOS, Linux, Windows
-- Design: Canva
-```
+
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Frameworks & Tools:**
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+**OS:**
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
 
 ### 🧠 My current projects
-- I’m currently working on Artificial Intelligence  
-- I’m currently learning CS50's Introduction to AI with Python  
-- I’m looking to collaborate on GitHub  
-- Ask me about Problem Solving  
+- 🤖 Working on **Artificial Intelligence** projects
+- 📚 Learning **CS50’s Introduction to AI with Python**
+- 🤝 Looking to collaborate on open-source GitHub projects
+- 💬 Ask me about **Problem Solving** and **Python**
 
 ---
 
-### GitHub analytics
+### 🏆 GitHub trophies
+<picture>
+  <source srcset="https://github-profile-trophy.vercel.app/?username=Rayaan2009&theme=tokyonight&no-frame=true&row=1" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rayaan2009&theme=flat&no-frame=true&row=1" />
+</picture>
+
+---
+
+### 📊 GitHub analytics
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Rayaan2009&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
   <img src="https://github-readme-stats.vercel.app/api?username=Rayaan2009&show_icons=true&theme=default&hide_border=true" />
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Rayaan2009&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayaan2009&theme=default&hide_border=true" />
+  <source srcset="https://streak-stats.demolab.com/?user=Rayaan2009&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <img src="https://streak-stats.demolab.com/?user=Rayaan2009&theme=default&hide_border=true" />
 </picture>
 
 <picture>
@@ -55,7 +77,7 @@
 
 ---
 
-### Random dev quote
+### 💬 Random dev quote
 <picture>
   <source srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" media="(prefers-color-scheme: dark)" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
@@ -63,7 +85,7 @@
 
 ---
 
-### Top contributed repos
+### 🌍 Top contributed repos
 <picture>
   <source srcset="https://github-contributor-stats.vercel.app/api?username=Rayaan2009&limit=5&theme=algolia&combine_all_yearly_contributions=true" media="(prefers-color-scheme: dark)" />
   <img src="https://github-contributor-stats.vercel.app/api?username=Rayaan2009&limit=5&theme=default&combine_all_yearly_contributions=true" />
