@@ -6,7 +6,7 @@
 
 ### Hi Mate, It's Rayaan Bin Saifullah! ☺️
 
-🚀 **16-year-old High School Student | Young Innovator | CS50 Learner | Python & Web Developer | Problem Solver | I'm keen on doing coding stuff, y'know! Kinda like a coding mate** 😅🚀
+🚀 **17-year-old High School Student | Young Innovator | CS50 Learner | Python & Web Developer | Problem Solver | I'm keen on doing coding stuff, y'know! Kinda like a coding mate** 😅🚀
 
 <!-- Social badges -->
 <a href="https://github.com/Rayaan2009" target="_blank"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -16,7 +16,9 @@
 <a href="https://discord.com/users/1456018726074847285" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Rayaan2009&label=Profile%20Views&color=7aa2ff&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rayaan2009&label=Views&color=7aa2ff&style=for-the-badge" />
+</p>
 
 </div>
 
@@ -54,16 +56,19 @@
 
 ### 🏆 GitHub trophies
 <picture>
-  <source srcset="https://github-profile-trophy.vercel.app/?username=Rayaan2009&theme=tokyonight&no-frame=true&row=1" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Rayaan2009&theme=flat&no-frame=true&row=1" />
+  <source srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=Rayaan2009&theme=tokyonight&no-frame=true&row=1" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Rayaan2009&theme=flat&no-frame=true&row=1" />
 </picture>
 
 ---
 
 ### 📊 GitHub analytics
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=Rayaan2009&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayaan2009&show_icons=true&theme=default&hide_border=true" />
+
+<source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Rayaan2009&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rayaan2009&show_icons=true&theme=default&hide_border=true" />
+
 </picture>
 
 <picture>
@@ -72,8 +77,11 @@
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayaan2009&layout=compact&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayaan2009&layout=compact&theme=default&hide_border=true" />
+
+<source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rayaan2009&layout=compact&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rayaan2009&layout=compact&theme=default&hide_border=true" />
+
 </picture>
 
 ---
@@ -88,8 +96,11 @@
 
 ### 🌍 Top contributed repos
 <picture>
-  <source srcset="https://github-contributor-stats.vercel.app/api?username=Rayaan2009&limit=5&theme=algolia&combine_all_yearly_contributions=true" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Rayaan2009&limit=5&theme=default&combine_all_yearly_contributions=true" />
+
+<source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rayaan2009&theme=tokyo-night" media="(prefers-color-scheme: dark)" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayaan2009&theme=github-light" />
+
 </picture>
 
 ---
