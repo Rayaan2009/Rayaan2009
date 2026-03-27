@@ -49,9 +49,9 @@
 
 I'm **Rayaan Bin Saifullah**, a 17-year-old student and developer passionate about technology, automation, and solving real-world problems through code and hardware.
 
-- 🏆 Built a **Smart Home Automation System** (voice-controlled with Google Assistant & Alexa) — *2nd place in school competition*
+- 🥈 Built a **Smart Home Automation System** (voice-controlled with Google Assistant & Alexa) — *2nd place in school competition*
 - 🥇 Created an **Intelligent Security System** with RFID/PIN access and robotics — *1st place in school competition*
-- 🌍 Ranked **16,516 globally** on HackerRank for Python (score: 2302.13/2305) with 5 verified certificates
+- 🌍 Ranked **16,516+ globally** on HackerRank for Python with 5 verified certificates
 - 🎓 Completed **CS50's Introduction to Computer Science** — Harvard's verified certification
 
 <details>
@@ -72,7 +72,7 @@ I'm **Rayaan Bin Saifullah**, a 17-year-old student and developer passionate abo
 
 | 🥇 **1st** | 🌍 **16K+** | 🎓 **5** |
 |:---:|:---:|:---:|
-| School Win | HackerRank Rank | Certificates |
+| School Win | HackerRank Global | Certificates |
 
 </div>
 
