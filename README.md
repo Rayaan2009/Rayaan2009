@@ -78,9 +78,87 @@ I'm **Rayaan Bin Saifullah**, a 17-year-old student and developer passionate abo
 
 ---
 
-## 💻 Tech Stack
+## 🗂 Selected Projects
 
-**Languages**
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**`2022`**
+
+### 🏠 Smart Home Automation System
+
+Voice-controlled home automation system integrated with Google Assistant and Alexa, enabling hands-free control of home devices. Awarded **2nd place** in school competition.
+
+![IoT](https://img.shields.io/badge/IoT-1e1e2e?style=flat-square&logoColor=c4b5fd)
+![Google Assistant](https://img.shields.io/badge/Google%20Assistant-1e1e2e?style=flat-square&logo=googleassistant&logoColor=c4b5fd)
+![Alexa](https://img.shields.io/badge/Alexa-1e1e2e?style=flat-square&logo=amazonalexa&logoColor=c4b5fd)
+![Arduino](https://img.shields.io/badge/Arduino-1e1e2e?style=flat-square&logo=arduino&logoColor=c4b5fd)
+
+</td>
+<td width="50%" valign="top">
+
+**`2024`**
+
+### 🔐 Intelligent Security System
+
+Advanced security system featuring RFID and PIN-based access control combined with robotics for automated responses. Won **1st place** in school competition.
+
+![RFID](https://img.shields.io/badge/RFID-1e1e2e?style=flat-square&logoColor=c4b5fd)
+![Robotics](https://img.shields.io/badge/Robotics-1e1e2e?style=flat-square&logoColor=c4b5fd)
+![Arduino](https://img.shields.io/badge/Arduino-1e1e2e?style=flat-square&logo=arduino&logoColor=c4b5fd)
+![Security](https://img.shields.io/badge/Security-1e1e2e?style=flat-square&logoColor=c4b5fd)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`2024`**
+
+### 🐍 Python Projects
+
+A growing collection of Python projects covering algorithms, data structures, and problem solving. Ranked **16,516 globally** on HackerRank (score: 2302.13/2305) with 5 verified certificates.
+
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=c4b5fd)
+![Algorithms](https://img.shields.io/badge/Algorithms-1e1e2e?style=flat-square&logoColor=c4b5fd)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-1e1e2e?style=flat-square&logoColor=c4b5fd)
+![HackerRank](https://img.shields.io/badge/HackerRank-1e1e2e?style=flat-square&logo=hackerrank&logoColor=c4b5fd)
+
+[**View on GitHub →**](https://github.com/Rayaan2009?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+**`2025`**
+
+### 🤖 AI Projects *(in progress)*
+
+Working on Artificial Intelligence projects and learning CS50's Introduction to AI with Python. Exploring machine learning models and neural networks.
+
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=c4b5fd)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-1e1e2e?style=flat-square&logoColor=c4b5fd)
+![CS50 AI](https://img.shields.io/badge/CS50%20AI-1e1e2e?style=flat-square&logoColor=c4b5fd)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💻 Tools, Systems & Studies
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**LANGUAGES**
 
 ![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=c4b5fd)
 ![C](https://img.shields.io/badge/C-1e1e2e?style=flat-square&logo=c&logoColor=c4b5fd)
@@ -89,26 +167,135 @@ I'm **Rayaan Bin Saifullah**, a 17-year-old student and developer passionate abo
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=c4b5fd)
 ![SQL](https://img.shields.io/badge/SQL-1e1e2e?style=flat-square&logo=mysql&logoColor=c4b5fd)
 
-**Frameworks & Tools**
+</td>
+<td width="50%" valign="top">
+
+**FRAMEWORKS & TOOLS**
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1e1e2e?style=flat-square&logo=bootstrap&logoColor=c4b5fd)
 ![Flask](https://img.shields.io/badge/Flask-1e1e2e?style=flat-square&logo=flask&logoColor=c4b5fd)
 ![Canva](https://img.shields.io/badge/Canva-1e1e2e?style=flat-square&logo=canva&logoColor=c4b5fd)
 
-**Operating Systems**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**OS**
 
 ![macOS](https://img.shields.io/badge/macOS-1e1e2e?style=flat-square&logo=apple&logoColor=c4b5fd)
 ![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=flat-square&logo=linux&logoColor=c4b5fd)
 ![Windows](https://img.shields.io/badge/Windows-1e1e2e?style=flat-square&logo=windows&logoColor=c4b5fd)
 
+</td>
+<td width="50%" valign="top">
+
+**SUBJECTS**
+
+![Mathematics](https://img.shields.io/badge/Mathematics-1e1e2e?style=flat-square&logoColor=c4b5fd)
+![Physics](https://img.shields.io/badge/Physics-1e1e2e?style=flat-square&logoColor=c4b5fd)
+![Chemistry](https://img.shields.io/badge/Chemistry-1e1e2e?style=flat-square&logoColor=c4b5fd)
+![Computer Science](https://img.shields.io/badge/Computer%20Science-1e1e2e?style=flat-square&logoColor=c4b5fd)
+![ICT](https://img.shields.io/badge/ICT-1e1e2e?style=flat-square&logoColor=c4b5fd)
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
-## 🚀 Current Projects
+## 🏆 Certificates & Awards
 
-- 🤖 Working on **Artificial Intelligence** projects
-- 📚 Learning **CS50's Introduction to AI with Python**
-- 🤝 Looking to collaborate on **open-source** GitHub projects
-- 💬 Ask me about **Problem Solving** and **Python**
+> Verified certifications and competition wins that reflect my dedication to continuous learning.
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**HARVARD UNIVERSITY (EDX)**
+
+### CS50's Introduction to Computer Science
+
+✅ *Verified*
+
+Verified certificate from Harvard's renowned introductory computer science course, covering algorithms, data structures, web development, and more.
+
+[![View Certificate →](https://img.shields.io/badge/View%20Certificate%20%E2%86%97-8b5cf6?style=flat-square)](https://certificates.cs50.io/)
+
+</td>
+<td width="33%" valign="top">
+
+**HACKERRANK**
+
+### Python (Basic)
+
+✅ *Verified*
+
+Verified skill certificate for Python fundamentals including data types, control flow, functions, and standard library usage.
+
+[![View Certificate →](https://img.shields.io/badge/View%20Certificate%20%E2%86%97-8b5cf6?style=flat-square)](https://www.hackerrank.com/certificates/python_basic)
+
+</td>
+<td width="33%" valign="top">
+
+**HACKERRANK**
+
+### CSS (Basic)
+
+✅ *Verified*
+
+Verified skill certificate covering CSS fundamentals including selectors, layout, spacing, responsive styling, and visual presentation.
+
+[![View Certificate →](https://img.shields.io/badge/View%20Certificate%20%E2%86%97-8b5cf6?style=flat-square)](https://www.hackerrank.com/certificates/css_basic)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**HACKERRANK**
+
+### Problem Solving (Basic)
+
+✅ *Verified*
+
+Verified skill certificate in algorithmic problem solving, covering data structures, sorting, and searching algorithms.
+
+[![View Certificate →](https://img.shields.io/badge/View%20Certificate%20%E2%86%97-8b5cf6?style=flat-square)](https://www.hackerrank.com/certificates/problem_solving_basic)
+
+</td>
+<td width="33%" valign="top">
+
+**HACKERRANK**
+
+### Problem Solving (Intermediate)
+
+✅ *Verified*
+
+Verified skill certificate for intermediate problem solving covering dynamic programming, graph traversal, and complex algorithms.
+
+[![View Certificate →](https://img.shields.io/badge/View%20Certificate%20%E2%86%97-8b5cf6?style=flat-square)](https://www.hackerrank.com/certificates/problem_solving_intermediate)
+
+</td>
+<td width="33%" valign="top">
+
+**SCHOOL COMPETITION**
+
+### Intelligent Security System
+
+🥇 *1st Place*
+
+RFID & PIN-based intelligent security system with robotics for automated responses — awarded 1st place in school competition.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
