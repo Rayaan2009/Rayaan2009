@@ -6,6 +6,10 @@
   <br />
   <br />
 
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2800&pause=700&color=7DD3FC&center=true&vCenter=true&width=900&lines=Student+Developer;Python+%7C+C+%7C+Web+Development;IoT+%26+Robotics+Builder;CS50+Certified+%7C+HackerRank+Verified" alt="Typing intro" />
+  <br />
+  <br />
+
   <a href="https://rayaan2009.github.io/itsactuallyrayaan/#/">
     <img src="https://img.shields.io/badge/Portfolio-09111F?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="Portfolio" />
   </a>
@@ -28,85 +32,70 @@
   <br />
   <br />
 
+  <img src="https://img.shields.io/github/followers/Rayaan2009?style=for-the-badge&color=0f172a&labelColor=111827&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Rayaan2009/Rayaan2009?style=for-the-badge&color=0f172a&labelColor=111827&logo=github&label=Profile%20Repo" alt="Profile repository stars" />
   <img src="https://komarev.com/ghpvc/?username=Rayaan2009&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
 </div>
 
+<div align="center">
+
+### Profile Snapshot
+
+<img src="https://img.shields.io/badge/Focus-Software%20%26%20Automation-0f172a?style=flat-square&logo=databricks&logoColor=7DD3FC" alt="Focus" />
+<img src="https://img.shields.io/badge/School%20Win-1st%20place-0f172a?style=flat-square&logo=trophy&logoColor=5EEAD4" alt="School win" />
+<img src="https://img.shields.io/badge/HackerRank-16K%2B%20Global-0f172a?style=flat-square&logo=hackerrank&logoColor=22C55E" alt="HackerRank ranking" />
+<img src="https://img.shields.io/badge/Certificates-5%20Verified-0f172a?style=flat-square&logo=checkmarx&logoColor=93C5FD" alt="Certificates" />
+<img src="https://img.shields.io/badge/CS50-Harvard%20Verified-0f172a?style=flat-square&logo=edx&logoColor=C4B5FD" alt="CS50 verified" />
+
+</div>
+
+## Highlights
+
 <table>
   <tr>
-    <td width="58%" valign="top">
-
-## Building things that matter
-
-I am Rayaan Bin Saifullah, a 17-year-old student developer focused on software, automation, and hardware projects that solve real problems.
-
-- Built a Smart Home Automation System with Google Assistant and Alexa integration and placed 2nd in a school competition.
-- Created an Intelligent Security System with RFID, PIN access, and robotics and placed 1st in a school competition.
-- Ranked 16,516 globally in HackerRank Python with a score of 2302.13 out of 2305.
-- Completed CS50's Introduction to Computer Science through Harvard and edX.
-- Currently exploring AI, problem solving, and sharper frontend engineering.
-
-## Current focus
-
-- Python and C projects with practical outcomes
-- AI and automation experiments
-- UI work that feels clean, modern, and intentional
-- Open-source collaboration and constant skill growth
-
+    <td width="33%" valign="top">
+      <h3>Smart Home Automation</h3>
+      Voice-controlled home automation integrated with Google Assistant and Alexa.<br /><br />
+      <img src="https://img.shields.io/badge/Award-2nd%20Place-111827?style=flat-square&logo=trophy&logoColor=FCD34D" alt="2nd place" /><br />
+      <a href="https://rayaan2009.github.io/itsactuallyrayaan/#/">View project</a>
     </td>
-    <td width="42%" valign="top" align="center">
-      <img src="https://github.com/Rayaan2009.png?size=320" alt="Rayaan Bin Saifullah" width="220" />
-      <br />
-      <br />
-      <img src="https://img.shields.io/badge/School%20Win-1st%20place-111827?style=flat-square&logo=trophy&logoColor=5EEAD4" alt="School win" />
-      <br />
-      <img src="https://img.shields.io/badge/HackerRank-16K%2B%20global-111827?style=flat-square&logo=hackerrank&logoColor=22C55E" alt="HackerRank ranking" />
-      <br />
-      <img src="https://img.shields.io/badge/Certificates-5%20verified-111827?style=flat-square&logo=academia&logoColor=93C5FD" alt="Certificates" />
-      <br />
-      <img src="https://img.shields.io/badge/School-Doha%20Academy-111827?style=flat-square&logo=googleclassroom&logoColor=C4B5FD" alt="Doha Academy" />
+    <td width="33%" valign="top">
+      <h3>Intelligent Security System</h3>
+      RFID and PIN-based access system combined with robotics and automation.<br /><br />
+      <img src="https://img.shields.io/badge/Award-1st%20Place-111827?style=flat-square&logo=trophy&logoColor=5EEAD4" alt="1st place" /><br />
+      <a href="https://rayaan2009.github.io/itsactuallyrayaan/#/">View project</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Certificates</h3>
+      Harvard CS50 plus verified HackerRank certifications in Python, CSS, and problem solving.<br /><br />
+      <a href="https://courses.edx.org/certificates/cfd642062ecd466faf347bc64f18cbe4">CS50</a> •
+      <a href="https://www.hackerrank.com/certificates/7fd2b6f079b3">Python</a> •
+      <a href="https://www.hackerrank.com/certificates/54bb17bea4dc">Problem Solving</a>
     </td>
   </tr>
 </table>
 
-## Selected work
+## Tech Stack
 
-| Project | Snapshot | Link |
-| --- | --- | --- |
-| Smart Home Automation System | Voice-controlled automation with Google Assistant and Alexa. | [Portfolio](https://rayaan2009.github.io/itsactuallyrayaan/#/) |
-| Intelligent Security System | RFID and PIN-based access with robotics for automated responses. | [Portfolio](https://rayaan2009.github.io/itsactuallyrayaan/#/) |
-| Python Projects | Algorithms, problem solving, tooling, and small experiments. | [GitHub](https://github.com/Rayaan2009) |
+<div align="center">
 
-## Verified achievements
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
-| Achievement | Issuer | Link |
-| --- | --- | --- |
-| CS50's Introduction to Computer Science | Harvard University (edX) | [Certificate](https://courses.edx.org/certificates/cfd642062ecd466faf347bc64f18cbe4) |
-| Python (Basic) | HackerRank | [Certificate](https://www.hackerrank.com/certificates/7fd2b6f079b3) |
-| CSS (Basic) | HackerRank | [Certificate](https://www.hackerrank.com/certificates/a1d3a48ffae6) |
-| Problem Solving (Basic) | HackerRank | [Certificate](https://www.hackerrank.com/certificates/39a68d5bf0ae) |
-| Problem Solving (Intermediate) | HackerRank | [Certificate](https://www.hackerrank.com/certificates/54bb17bea4dc) |
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-111827?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Stack
+</div>
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
-
-### Tools
-
-![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-111827?style=flat-square&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-## GitHub pulse
+## Analytics
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rayaan2009&show_icons=true&hide_border=true&bg_color=00000000&title_color=7DD3FC&text_color=CBD5E1&icon_color=5EEAD4&ring_color=60A5FA" alt="GitHub stats" />
@@ -118,7 +107,17 @@ I am Rayaan Bin Saifullah, a 17-year-old student developer focused on software, 
 </div>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rayaan2009&theme=algolia&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub trophies" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayaan2009&bg_color=020617&color=cbd5e1&line=5eead4&point=7dd3fc&area=true&area_color=0f172a&hide_border=true" alt="Contribution graph" />
+</div>
+
+## Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayaan2009&theme=github_dark" alt="Profile summary" />
 </div>
 
 ## Breakout
@@ -130,5 +129,5 @@ I am Rayaan Bin Saifullah, a 17-year-old student developer focused on software, 
 </picture>
 
 <div align="center">
-  <sub>If you want to build something useful together, reach out through LinkedIn or email.</sub>
+  <sub>Open to collaboration, creative builds, and high-quality engineering work.</sub>
 </div>
