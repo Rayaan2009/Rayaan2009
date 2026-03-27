@@ -224,7 +224,8 @@ Working on Artificial Intelligence projects and learning CS50's Introduction to 
 
 Verified certificate from Harvard's renowned introductory computer science course, covering algorithms, data structures, web development, and more.
 
-[![View Certificate →](https://img.shields.io/badge/View%20Certificate%20%E2%86%97-8b5cf6?style=flat-square)](https://certificates.cs50.io/)
+<!-- Update this URL with your specific CS50 certificate UUID, e.g. https://certificates.cs50.io/your-uuid-here.png -->
+[![View Certificate →](https://img.shields.io/badge/View%20Certificate%20%E2%86%97-8b5cf6?style=flat-square)](https://cs50.harvard.edu/certificates/)
 
 </td>
 <td width="33%" valign="top">
@@ -237,7 +238,7 @@ Verified certificate from Harvard's renowned introductory computer science cours
 
 Verified skill certificate for Python fundamentals including data types, control flow, functions, and standard library usage.
 
-[![View Certificate →](https://img.shields.io/badge/View%20Certificate%20%E2%86%97-8b5cf6?style=flat-square)](https://www.hackerrank.com/certificates/python_basic)
+[![View Certificate →](https://img.shields.io/badge/View%20Certificate%20%E2%86%97-8b5cf6?style=flat-square)](https://www.hackerrank.com/profile/itsactuallyrayaan)
 
 </td>
 <td width="33%" valign="top">
@@ -250,7 +251,7 @@ Verified skill certificate for Python fundamentals including data types, control
 
 Verified skill certificate covering CSS fundamentals including selectors, layout, spacing, responsive styling, and visual presentation.
 
-[![View Certificate →](https://img.shields.io/badge/View%20Certificate%20%E2%86%97-8b5cf6?style=flat-square)](https://www.hackerrank.com/certificates/css_basic)
+[![View Certificate →](https://img.shields.io/badge/View%20Certificate%20%E2%86%97-8b5cf6?style=flat-square)](https://www.hackerrank.com/profile/itsactuallyrayaan)
 
 </td>
 </tr>
@@ -265,7 +266,7 @@ Verified skill certificate covering CSS fundamentals including selectors, layout
 
 Verified skill certificate in algorithmic problem solving, covering data structures, sorting, and searching algorithms.
 
-[![View Certificate →](https://img.shields.io/badge/View%20Certificate%20%E2%86%97-8b5cf6?style=flat-square)](https://www.hackerrank.com/certificates/problem_solving_basic)
+[![View Certificate →](https://img.shields.io/badge/View%20Certificate%20%E2%86%97-8b5cf6?style=flat-square)](https://www.hackerrank.com/profile/itsactuallyrayaan)
 
 </td>
 <td width="33%" valign="top">
@@ -278,7 +279,7 @@ Verified skill certificate in algorithmic problem solving, covering data structu
 
 Verified skill certificate for intermediate problem solving covering dynamic programming, graph traversal, and complex algorithms.
 
-[![View Certificate →](https://img.shields.io/badge/View%20Certificate%20%E2%86%97-8b5cf6?style=flat-square)](https://www.hackerrank.com/certificates/problem_solving_intermediate)
+[![View Certificate →](https://img.shields.io/badge/View%20Certificate%20%E2%86%97-8b5cf6?style=flat-square)](https://www.hackerrank.com/profile/itsactuallyrayaan)
 
 </td>
 <td width="33%" valign="top">
