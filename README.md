@@ -18,6 +18,23 @@
 
 <img src="https://komarev.com/ghpvc/?username=Rayaan2009&label=Profile+Views&color=8b5cf6&style=for-the-badge" />
 
+
+### Hi Mate, It's Rayaan Bin Saifullah! ☺️
+
+🚀 **17-year-old High School Student | Young Innovator | CS50 Learner | Python & Web Developer | Problem Solver | I'm keen on doing coding stuff, y'know! Kinda like a coding mate** 😅🚀
+
+<!-- Social badges -->
+<a href="https://github.com/Rayaan2009" target="_blank"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/itsactuallyrayaan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@itsactuallyrayaan" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="mailto:rayaanbinsaifullah2009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-7aa2ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://discord.com/users/1456018726074847285" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+
+<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rayaan2009&label=Views&color=7aa2ff&style=for-the-badge" />
+</p>
+
 </div>
 
 ---
