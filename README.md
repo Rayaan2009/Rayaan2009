@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=a78bfa&center=true&vCenter=true&width=650&lines=Python+%26+C+Developer;AI+%2F+ML+Enthusiast;Cybersecurity+Explorer;CS50+AI+with+Python+Learner;Problem+Solver+%E2%80%94+Not+a+Vibe+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=a78bfa&center=true&vCenter=true&width=650&lines=Python+%26+Web+Developer;AI+%2F+ML+Enthusiast;Cybersecurity+Explorer;CS50+AI+with+Python+Learner;Problem+Solver+%E2%80%94+Not+a+Vibe+Coder)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 ### Who I am
 
-I am a Year 11 British student with a serious interest in computer science, AI, and cybersecurity. I approach problems like an engineer: understand it properly, break it down, then build something that actually works.
+I am a Year 11 student with a serious interest in computer science, AI, and cybersecurity. I approach problems like an engineer: understand it properly, break it down, then build something that actually works.
 
 My long-term goal is to build a genuinely intelligent AI assistant -- not a chatbot, but something in the direction of Jarvis or Friday. That goal shapes everything I study and build right now.
 
