@@ -1,22 +1,22 @@
 <div align="center">
 
-<img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2ff,100:5eead4&height=220&section=header&text=Rayaan%20Bin%20Saifullah&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=40&desc=Year%2011%20%E2%80%A2%20Future%20CS%20Student%20%E2%80%A2%20Building%20the%20Next%20Jarvis&descAlign=50&descAlignY=64" />
+<img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c1e,100:8b5cf6&height=220&section=header&text=Rayaan%20Bin%20Saifullah&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=40&desc=Year%2011%20%E2%80%A2%20Future%20CS%20Student%20%E2%80%A2%20Building%20the%20Next%20Jarvis&descAlign=50&descAlignY=64" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=7aa2ff&center=true&vCenter=true&width=650&lines=Python+%26+C+Developer;AI+%2F+ML+Enthusiast;Cybersecurity+Explorer;CS50+AI+with+Python+Learner;Problem+Solver+%E2%80%94+Not+a+Vibe+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=a78bfa&center=true&vCenter=true&width=650&lines=Python+%26+C+Developer;AI+%2F+ML+Enthusiast;Cybersecurity+Explorer;CS50+AI+with+Python+Learner;Problem+Solver+%E2%80%94+Not+a+Vibe+Coder)](https://git.io/typing-svg)
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rayaan2009)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsactuallyrayaan/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itsactuallyrayaan)
-[![Email](https://img.shields.io/badge/Email-7aa2ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayaanbinsaifullah2009@gmail.com)
+[![Email](https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayaanbinsaifullah2009@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1456018726074847285)
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rayaan2009&label=Profile+Views&color=7aa2ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Rayaan2009&label=Profile+Views&color=8b5cf6&style=for-the-badge" />
 
 </div>
 
@@ -100,13 +100,22 @@ My long-term goal is to build a genuinely intelligent AI assistant -- not a chat
 
 ---
 
-### Activity
+### Contributions
 
 <div align="center">
+
 <picture>
   <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rayaan2009&theme=tokyo-night&hide_border=true" media="(prefers-color-scheme: dark)" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayaan2009&theme=github-light&hide_border=true" />
 </picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rayaan2009/Rayaan2009/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rayaan2009/Rayaan2009/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
@@ -138,4 +147,4 @@ My long-term goal is to build a genuinely intelligent AI assistant -- not a chat
   <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/Rayaan2009/Rayaan2009/github-breakout/images/breakout-light.svg" />
 </picture>
 
-<img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2ff,100:5eead4&height=120&section=footer&fontColor=ffffff" />
+<img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0f0c1e&height=120&section=footer&fontColor=ffffff" />
