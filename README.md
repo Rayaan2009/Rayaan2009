@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2ff,50:a78bfa,100:5eead4&height=220&section=header&text=Rayaan%20Bin%20Saifullah&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Year%2011%20%E2%80%A2%20Future%20CS%20Student%20%E2%80%A2%20Building%20the%20Next%20Jarvis&descAlign=50&descAlignY=64&descSize=15" />
+<img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2ff,100:5eead4&height=220&section=header&text=Rayaan%20Bin%20Saifullah&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=40&desc=Year%2011%20%E2%80%A2%20Future%20CS%20Student%20%E2%80%A2%20Building%20the%20Next%20Jarvis&descAlign=50&descAlignY=64" />
 
 <br/>
 
@@ -138,4 +138,4 @@ My long-term goal is to build a genuinely intelligent AI assistant -- not a chat
   <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/Rayaan2009/Rayaan2009/github-breakout/images/breakout-light.svg" />
 </picture>
 
-<img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2ff,50:a78bfa,100:5eead4&height=120&section=footer&fontColor=ffffff" />
+<img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2ff,100:5eead4&height=120&section=footer&fontColor=ffffff" />
