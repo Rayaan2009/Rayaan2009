@@ -1,10 +1,10 @@
 <div align="center">
 
-<img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c1e,100:8b5cf6&height=220&section=header&text=Rayaan%20Bin%20Saifullah&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=40&desc=Year%2011%20%E2%80%A2%20Future%20CS%20Student%20%E2%80%A2%20Building%20the%20Next%20Jarvis&descAlign=50&descAlignY=64" />
+<img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c1e,100:8b5cf6&height=220&section=header&text=Rayaan%20Bin%20Saifullah&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=40&desc=Software%20Engineer%20%7C%20Python%20and%20Web%20Developer%20%7C%20IoT%20and%20AI%20Innovator&descAlign=50&descAlignY=64" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=a78bfa&center=true&vCenter=true&width=650&lines=Python+%26+Web+Developer;AI+%2F+ML+Enthusiast;Cybersecurity+Explorer;CS50+AI+with+Python+Learner;Problem+Solver+%E2%80%94+Not+a+Vibe+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=a78bfa&center=true&vCenter=true&width=650&lines=Python%2C+C+%26+Web+Developer;IoT+%26+Hardware+Builder;AI+%2F+ML+Enthusiast;HarvardX+CS50AI+Graduate;Competitive+Programmer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,17 +26,42 @@
 
 ---
 
-### Who I am
+### About me
 
-I am a Year 11 student with a serious interest in computer science, AI, and cybersecurity. I approach problems like an engineer: understand it properly, break it down, then build something that actually works.
+I'm a Year 11 student at Doha Academy with five years of programming experience. I build systems where software meets hardware, from voice-controlled smart homes to AI-driven security, with a focus on clean engineering and problems worth solving.
 
-My long-term goal is to build a genuinely intelligent AI assistant -- not a chatbot, but something in the direction of Jarvis or Friday. That goal shapes everything I study and build right now.
+My long-term goal is to build a genuinely intelligent AI assistant. Not a chatbot, but something closer to Jarvis or Friday. That goal shapes what I study and what I build right now.
 
-- Studying **GCSE Maths, Physics, Chemistry, CS, ICT, Arabic, and English**
-- Taking **AS Maths, Physics, and Chemistry** next year
-- Targeting a **Computer Science degree**
-- Deep interests in **AI/ML, cybersecurity, robotics, CS theory, and systems engineering**
-- Strong in **programming, maths, science, research, critical thinking, and prompt engineering**
+- Studying **GCSE Maths, Physics, Chemistry, Computer Science, ICT, Arabic, and English**
+- Planning **AS/A Level Maths, Physics, Chemistry** (and Computer Science)
+- Targeting a **Computer Science or AI** degree
+- Deep interests in **AI/ML, IoT, robotics, cybersecurity, and systems engineering**
+- Strong in **programming, algorithms, maths, science, and research**
+
+---
+
+### What I've built
+
+| Project | Highlight |
+|---|---|
+| **Intelligent Security System** | RFID + PIN access, environmental sensors, and a robotic interception vehicle. 🏆 **1st place**, school competition. |
+| **Smart Home Automation System** | Voice-controlled hub for Google Assistant and Alexa. 🥈 **2nd place**, school competition. |
+| **AI with Python (CS50AI)** | Search, knowledge, optimisation, and machine learning built from first principles. |
+| **Competitive Programming** | Verified HackerRank certificates up to Problem Solving (Intermediate). |
+
+---
+
+### Certifications
+
+| Programme | Issuer | Verify |
+|---|---|---|
+| CS50AI: Introduction to Artificial Intelligence with Python | HarvardX | [Verify](https://courses.edx.org/certificates/61583a65e7b44d45a23e65198a55896b) |
+| Professional Certificate in Computer Science for AI | HarvardX | [Verify](https://credentials.edx.org/credentials/6a00e753c1cc4e3cb469faaf0709a70f/) |
+| CS50's Introduction to Computer Science | HarvardX | [Verify](https://courses.edx.org/certificates/cfd642062ecd466faf347bc64f18cbe4) |
+| Python (Basic) | HackerRank | [Verify](https://www.hackerrank.com/certificates/7fd2b6f079b3) |
+| Problem Solving (Intermediate) | HackerRank | [Verify](https://www.hackerrank.com/certificates/54bb17bea4dc) |
+| Problem Solving (Basic) | HackerRank | [Verify](https://www.hackerrank.com/certificates/39a68d5bf0ae) |
+| CSS (Basic) | HackerRank | [Verify](https://www.hackerrank.com/certificates/a1d3a48ffae6) |
 
 ---
 
@@ -48,23 +73,15 @@ My long-term goal is to build a genuinely intelligent AI assistant -- not a chat
 
 [![Languages](https://skillicons.dev/icons?i=python,c,js,html,css,mysql&theme=dark)](https://skillicons.dev)
 
-**Tools & Frameworks**
+**Frameworks & Tools**
 
-[![Tools](https://skillicons.dev/icons?i=flask,bootstrap,git,vscode,linux&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=flask,bootstrap,react,vite,tailwind,git,vscode&theme=dark)](https://skillicons.dev)
+
+**Hardware & Platforms**
+
+[![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,apple,windows&theme=dark)](https://skillicons.dev)
 
 </div>
-
----
-
-### What I am building towards
-
-| Area | Status |
-|------|--------|
-| CS50 AI with Python | In progress |
-| AI/ML fundamentals | Actively learning |
-| Python projects | Building |
-| Cybersecurity concepts | Exploring |
-| Advanced AI assistant (Jarvis-level) | Long-term goal |
 
 ---
 
