@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsactuallyrayaan/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itsactuallyrayaan)
 [![Email](https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayaanbinsaifullah2009@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1456018726074847285)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/749278357149188136)
 
 <br/>
 
