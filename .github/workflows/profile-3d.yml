@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: Rayaan2009
       - name: Commit & Push
         run: |
