@@ -147,11 +147,7 @@ My long-term goal is to build a genuinely intelligent AI assistant. Not a chatbo
 
 ---
 
-<div align="center">
-  <a href="https://rayaan2009.github.io/itsactuallyrayaan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Rayaan2009/Rayaan2009/main/assets/logo.png" alt="Rayaan2009 Logo" height="48">
-  </a>
-</div>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
