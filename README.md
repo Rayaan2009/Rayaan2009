@@ -124,14 +124,9 @@ My long-term goal is to build a genuinely intelligent AI assistant -- not a chat
 
 ---
 
-### Random dev quote
+### GitHub Activity
 
-<div align="center">
-<picture>
-  <source srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-</picture>
-</div>
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=rayaan2009&hide_border=true)
 
 ---
 
