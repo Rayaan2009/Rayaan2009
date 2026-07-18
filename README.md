@@ -46,8 +46,8 @@ I like problems that sit where code meets the physical world, such as voice-cont
 
 | Project | What it is |
 |---|---|
-| **AI with Python** ([CS50 AI](https://certificates.cs50.io/61583a65-e7b4-4d45-a23e-65198a55896b)) | Search, knowledge, optimisation, and machine learning implemented from first principles. HarvardX certificate verified below. |
-| **CS50x — Computer Science** ([certificate](https://certificates.cs50.io/cfd64206-2ecd-466f-af34-7bc64f18cbe4)) | Foundations in C, algorithms, data structures, and web. Notes and practice in [My-Personal-Projects](https://github.com/Rayaan2009/My-Personal-Projects/tree/main/CS50's_Introduction_Computer_Science). |
+| **AI with Python** ([CS50 AI](https://courses.edx.org/certificates/61583a65e7b44d45a23e65198a55896b)) | Search, knowledge, optimisation, and machine learning implemented from first principles. HarvardX certificate verified below. |
+| **CS50x — Computer Science** ([certificate](https://courses.edx.org/certificates/cfd642062ecd466faf347bc64f18cbe4)) | Foundations in C, algorithms, data structures, and web. Notes and practice in [My-Personal-Projects](https://github.com/Rayaan2009/My-Personal-Projects/tree/main/CS50's_Introduction_Computer_Science). |
 | **[Smart Home Automation System](https://github.com/Rayaan2009/My-Personal-Projects/tree/main/IoT%20%26%20Robotics/Smart_Home_Automation_System)** | Arduino-based home automation hub with voice-assistant integration. Built for a school competition. |
 | **[Security / Door-Lock System](https://github.com/Rayaan2009/My-Personal-Projects/tree/main/IoT%20%26%20Robotics/Door_Lock_System)** | RFID and PIN access control with environmental sensing on Arduino. |
 
@@ -101,6 +101,15 @@ I like problems that sit where code meets the physical world, such as voice-cont
 | Problem Solving (Basic) | HackerRank | [Verify](https://www.hackerrank.com/certificates/39a68d5bf0ae) |
 | Python (Basic) | HackerRank | [Verify](https://www.hackerrank.com/certificates/7fd2b6f079b3) |
 | CSS (Basic) | HackerRank | [Verify](https://www.hackerrank.com/certificates/a1d3a48ffae6) |
+
+---
+
+## Learning Journey
+
+- **HarvardX CS50x** — foundations in C, algorithms, data structures, memory, and web.
+- **HarvardX CS50 AI** — search, knowledge representation, optimisation, and machine learning in Python.
+- **HackerRank** — Python and Problem Solving (up to Intermediate).
+- **Now:** applying ML concepts and extending my IoT/embedded projects.
 
 ---
 
